@@ -1,0 +1,41 @@
+body {
+	background-color:#202945;
+	color:#fff;
+	font-size: 1.2em;
+	line-height:1.2em;
+	}
+	
+	h1.author {}
+	h2 {
+		margin-bottom:1.5em;
+		font-weight:normal;
+		}
+	
+	img.avatar-border {
+		display:none;
+	}
+	
+	#profile a, a:link, a:visited, a:active {
+	color:#8f94a2;
+	text-decoration:none;
+	border-bottom:none;
+	}
+	
+	#profile a:hover, a:hover {
+	color:#fff; 
+	border-bottom:none;
+	}
+	
+	nav li {margin: 0 14px;}
+	
+	footer a, a:link, a:visited, a:active {
+	color:#585f74;
+	text-decoration:none;
+	border-bottom: 1px dotted;
+	}
+	
+	footer {
+	display:none;
+	color:#585f74;
+	font-size:14px;
+	}
